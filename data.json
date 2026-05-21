@@ -86,13 +86,13 @@
         "vesperRidge": 0
       },
       "expenses": {
-        "reimbursement": 0,
-        "loanRepayment": 0,
+        "reimbursement": 3125,
+        "loanRepayment": 3125,
         "creditCard": 125.79,
         "other": 0,
         "taxes": 0,
         "personal1": 0,
-        "personal2": 0
+        "personal2": 5000
       }
     },
     {
@@ -105,8 +105,8 @@
         "vesperRidge": 0
       },
       "expenses": {
-        "reimbursement": 0,
-        "loanRepayment": 0,
+        "reimbursement": 3125,
+        "loanRepayment": 3125,
         "creditCard": 0,
         "other": 0,
         "taxes": 0,
@@ -159,5 +159,5 @@
       "investments": 0
     }
   ],
-  "lastImport": "May 20 at 11:10 PM"
+  "lastImport": "May 20 at 11:23 PM"
 }
