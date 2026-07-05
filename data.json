@@ -48,10 +48,10 @@
         "vesperRidge": 0
       },
       "expenses": {
-        "reimbursement": 0,
-        "loanRepayment": 0,
-        "creditCard": 0,
-        "other": 0,
+        "reimbursement": 3125,
+        "loanRepayment": 3125,
+        "creditCard": 1313.88,
+        "other": 20000,
         "taxes": 0,
         "personal1": 0,
         "personal2": 0
@@ -159,5 +159,5 @@
       "investments": 0
     }
   ],
-  "lastImport": "Jun 13 at 11:14 PM"
+  "lastImport": "Jul 5 at 12:17 PM"
 }
